@@ -1,0 +1,16 @@
+www.twitch.tv##.consent-banner
+www.twitch.tv##.prime-extension-root
+www.twitch.tv##.headliner-ad
+
+apk.tools###policy-pop
+
+duckduckgo.com##.english.atb-new.js-badge-link.ddg-extension-hide.badge-link--serp.badge-link
+
+www.programcreek.com##.pre-render-cmp.ez_banner
+
+www.releases.com##.hs-outer > .pre-render-cmp.ez_modal
+
+seositecheckup.com##.ant-modal-content
+seositecheckup.com##.ant-modal-centered.ant-modal-wrap
+
+||js.driftt.com/core$subdocument
