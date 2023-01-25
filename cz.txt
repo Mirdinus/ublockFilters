@@ -1,6 +1,7 @@
-central.mall.tv
-bisko.gjirafa.tech
-smartsuppchat.com
+# cz
+||central.mall.tv
+||bisko.gjirafa.tech
+||smartsuppchat.com
 
 www.patrikkorenar.cz##.open.cb-scrollable.cb-basic
 
@@ -32,4 +33,6 @@ www.svatek.cz##.banner-right
 www.svatek.cz###kalendar
 www.svatek.cz###fb-log
 
-||novinky.cz/*/track
+||.cz/*/track
+novinky.cz##div:has(> div:has(> .banner-wrapper))
+novinky.cz##div:has(> div:has(> .dynamic__banner))
